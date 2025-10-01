@@ -25,7 +25,7 @@ The notebook performs the following steps:
 
 ## Google Colab Notebook
 
-[[Link to your Google Colab notebook here](https://colab.research.google.com/drive/1JkEm3n0RtLWN01jY6zF9kb7hSvdll6U0?usp=sharing)]
+[[Link to  Google Colab notebook here](https://colab.research.google.com/drive/1JkEm3n0RtLWN01jY6zF9kb7hSvdll6U0?usp=sharing)]
 
 
 
